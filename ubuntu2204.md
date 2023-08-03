@@ -21,7 +21,7 @@
 # apt install -y openvpn-dco-dkms
 （输入密码）
 # reboot
-（重启后要输入密码验证才会启用）
+（重启后要输入密码验证才会启用 Enroll MOK）
 
 4、crack
 # systemctl stop openvpnas
