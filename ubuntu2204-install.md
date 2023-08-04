@@ -16,7 +16,7 @@
 # apt update
 # apt install -y bridge-utils dmidecode iptables iproute2 libc6 libffi7 libgcc-s1 liblz4-1 liblzo2-2 libmariadb3 libpcap0.8 libssl3 libstdc++6 libsasl2-2 libsqlite3-0 net-tools python3-pkg-resources python3-migrate python3-sqlalchemy python3-mysqldb python3-ldap3 sqlite3 zlib1g python3-netaddr python3-arrow python3-lxml python3-constantly python3-hyperlink python3-automat python3-service-identity python3-cffi python3-defusedxml libcap-ng0 libnl-3-200 libnl-genl-3-200
 # dpkg -i openvpn-as-bundled-clients-28.deb openvpn-as_2.12.0-2e834031-Ubuntu22_amd64.deb
-
+(安装文件在百度网盘里)
 3、安装DCO
 # apt install -y openvpn-dco-dkms
 （输入密码）
