@@ -29,6 +29,7 @@
 # rm /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.10.egg
 # mv pyovpn-2.0-py3.10.egg /usr/local/openvpn_as/lib/python
 （pyovpn-2.0-py3.10.egg上传到用户目录，再替换）
+（一定要确认版本，有可能是3.10或3.6、3.7、3.8等）
 # cd /usr/local/openvpn_as/bin
 # ./ovpn-init
 
