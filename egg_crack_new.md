@@ -12,7 +12,7 @@
 （安装DCO：apt install -y openvpn-dco-dkms）（重启后要输入密码验证才会启用）
 
 3、crack
-# sudo apt install python3-pip unzip
+# sudo apt install python3-pip unzip zip
 # systemctl stop openvpnas
 # mkdir /home/temp && cd /home/temp
 # cp /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.10.egg{,.bak}
