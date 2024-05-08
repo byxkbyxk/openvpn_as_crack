@@ -1,3 +1,4 @@
+版本：Ubuntu22.04、OAS2.13.1
 1、安装完ubuntu，开启转发
 # nano /etc/sysctl.conf
 新增一行：net.ipv4.ip_forward = 1
