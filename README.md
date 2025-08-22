@@ -7,3 +7,10 @@
 3、附件里已破解的文件可直接使用
 
 4、附件里三种客户端
+
+
+
+systemctl stop openvpnas
+
+
+systemctl start openvpnas
