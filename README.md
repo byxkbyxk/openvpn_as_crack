@@ -11,6 +11,6 @@
 
 
 systemctl stop openvpnas
-
+/usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.12.egg
 
 systemctl start openvpnas
