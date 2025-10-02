@@ -1,4 +1,5 @@
 版本：Ubuntu22.04 server、OAS2.13.1
+(对于ubuntu24.04,对应/pyovpn-2.0-py3.12.egg)
 
 1、安装完ubuntu，开启转发
 # nano /etc/sysctl.conf
